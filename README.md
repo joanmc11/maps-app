@@ -1,6 +1,6 @@
 # maps_app
 
-A new Flutter project.
+Maps App Flutter project. Device location, route tracer, directions to specific point, markers. 
 
 ## Getting Started
 
