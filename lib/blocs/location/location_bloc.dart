@@ -23,6 +23,7 @@ class LocationBloc extends Bloc<LocationEvent, LocationState> {
         myLocationHistory: [...state.myLocationHistory, event.newLocation],
       ));
     });
+    
   }
 
   Future getCurrentPosition() async {

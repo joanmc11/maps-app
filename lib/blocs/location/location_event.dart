@@ -19,3 +19,4 @@ class OnStartFollowingUser extends LocationEvent{
 class OnStopFollowingUser extends LocationEvent{
 
 }
+
